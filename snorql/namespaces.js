@@ -8,6 +8,7 @@ var D2R_namespacePrefixes = {
     sim: 'http://purl.org/ontology/similarity/',
     mo: 'http://purl.org/ontology/mo/',
     ov: 'http://open.vocab.org/terms/',
+    prov: 'http://www.w3.org/ns/prov#',
     xsd: 'http://www.w3.org/2001/XMLSchema#',
 };
 
